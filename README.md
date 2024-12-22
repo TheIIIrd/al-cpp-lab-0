@@ -87,5 +87,5 @@ clang++ <file name>.cpp -o <file name>.out
 GNU GENERAL PUBLIC LICENSE Version 3
 
 <p align="center">
-<img alt="Links purple banner" src="Artwork/Links-banner-lightpurple-by-sibistel-and-theiiird.png"/>
+<img alt="Links purple banner" src="artwork/Links-banner-lightpurple-by-sibistel-and-theiiird.png"/>
 </p>

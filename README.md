@@ -1,4 +1,4 @@
-# **Test Field V-NN-0**
+# **al-cpp-lab-0**
 
 ## A repository for laboratory work on algorithmic languages. Created and developed by N.N.
 

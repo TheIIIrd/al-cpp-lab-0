@@ -1,6 +1,6 @@
 # **al-cpp-lab-0**
 
-## A repository for laboratory work on algorithmic languages
+**A repository for laboratory work on algorithmic languages**
 
 ```
  (`-')  _                                         (`-')  _ <-. (`-')_
